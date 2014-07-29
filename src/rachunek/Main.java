@@ -18,7 +18,7 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("HelloPablo");
-        
+        // zmiana
         TRachunek ror, pror;
         double odsetki;
         ror=new TRachunek("Ala", "Nowak");
